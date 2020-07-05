@@ -4416,13 +4416,6 @@ h3 {
     }
 }
 
-@media (max-width: 767px) {
-    /* line 44, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
-    .slider_area .single_slider .slider_text span {
-        font-size: 16px;
-    }
-}
-
 
 /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
 
